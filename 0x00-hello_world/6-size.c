@@ -1,7 +1,7 @@
 # include <stdio.h>
 
 /**
- * Main - This is the main function
+ * main - This is the main function
  *
  * Return: this always 0 if succeful
  */
